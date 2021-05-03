@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zay/Documents/GitHub/program-2-list-array-implementation-dblass613/List.cpp
+List.h
+/Users/Zay/Documents/GitHub/program-2-list-array-implementation-dblass613/List.h
+iostream
+-
+random
+-
+
+/Users/Zay/Documents/GitHub/program-2-list-array-implementation-dblass613/List.h
+string
+-
+
+/Users/Zay/Documents/GitHub/program-2-list-array-implementation-dblass613/main.cpp
+List.h
+/Users/Zay/Documents/GitHub/program-2-list-array-implementation-dblass613/List.h
+iostream
+-
+
